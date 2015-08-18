@@ -41,7 +41,7 @@ def main():
 
 	weights = {key: 10**randn() for key in model.regulation.keys()}
 
-	v, sol = arFBA(model, reference_condition, perturbed_condition, weights)
+	v = arFBA(model, reference_condition, perturbed_condition, weights)
 
 	for r_id, val in v.items():
 		if val:
