@@ -1,4 +1,5 @@
-# arFBA (Allosteric Regulation FBA)
+# arFBA 
+## (allosteric regulation FBA)
 
 Implementation of the arFBA method published in:
 
@@ -11,4 +12,4 @@ Dependencies:
 + gurobi
 + framed
 
-Note that framed is still under development, and might undergo major changes in the future. For compatibility please use the following version: https://github.com/cdanielmachado/framed/tree/v0.1-beta
+Note that **framed** is still under development and might undergo major changes in the future. For compatibility please use the following version: https://github.com/cdanielmachado/framed/tree/v0.1-beta
