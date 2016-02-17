@@ -1,5 +1,4 @@
-# arFBA 
-## (allosteric regulation FBA)
+# arFBA (allosteric regulation FBA)
 
 Implementation of the arFBA method published in:
 
